@@ -1,0 +1,19 @@
+path: /kaggle/input/datasets/deepthism/ocean-waste-data/ocean-waste-data/trashcan
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: trash_bag
+  1: trash_bottle
+  2: trash_branch
+  3: trash_can
+  4: trash_clothing
+  5: trash_container
+  6: trash_cup
+  7: trash_net
+  8: trash_pipe
+  9: trash_rope
+  10: trash_snack_wrapper
+  11: trash_tarp
+  12: trash_unknown_instance
+  13: trash_wreckage
